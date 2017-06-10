@@ -1,13 +1,13 @@
-##LearnDash MailPoet Add on
+## LearnDash MailPoet Add on ##
 
 This is a simple LearnDash and MailPoet base plugin for auto subscribing learndash group users to appropriate mailpoet mailing list.
 
 MailPoet list name is based on LearnDash group name, so every group has its own mailing list
 
-###Tested with
+### Tested with ###
 * LearnDash Version 2.3.3
 * MailPoet Version 3.0.0-beta.26
 
-###Contribute on GitHub
+### Contribute on GitHub ###
 
 You can contribute code to this plugin via the GitHub repository.
