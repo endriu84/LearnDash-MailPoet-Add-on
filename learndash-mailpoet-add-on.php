@@ -1,5 +1,5 @@
 <?php
-/**
+/*
 Plugin Name:        LearnDash MailPoet Add on
 Description:        This is a simple LearnDash and MailPoet base plugin for auto subscribing learndash group users to appropriate  mailpoet mailing list
 Version:            1.0
